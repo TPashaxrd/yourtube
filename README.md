@@ -1,13 +1,13 @@
 # YOURTUBE
 # React.js (Youtube | YourTube)
-![Uploading image.png…]()
+![first](https://github.com/user-attachments/assets/357307b4-1eca-465d-b1cf-0af309665a31)
 
 **React.js - Tailwindcss - css - Node.JS--**
 **FRONT-END: React Framework BACK-END: Node.js**
 # Özellikler
 - Authentication
 - Custom Channel
-- Upload Video
+- Upload Video<
 - Admin
 - Basic Theme
 - 2 backend API
