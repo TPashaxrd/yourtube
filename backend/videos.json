@@ -2,41 +2,9 @@
   {
     "id": 1739003562405,
     "title": "New York",
-    "path": "/videos/1739003561921.mp4",
-    "preview": "http://localhost:5001/videos/1739003562404.jpg",
-    "likes": 0,
-    "views": 0
-  },
-  {
-    "id": 1739006194593,
-    "title": "Test",
-    "path": "/videos/1739006194588.mp4",
-    "preview": "http://localhost:5001/videos/1739006194592.jpg",
-    "likes": 0,
-    "views": 0
-  },
-  {
-    "id": 1739006214262,
-    "title": "wqe",
-    "path": "/videos/1739006214214.mp4",
-    "preview": "http://localhost:5001/videos/1739006214218.png",
-    "likes": 0,
-    "views": 0
-  },
-  {
-    "id": 1739006233567,
-    "title": "sea",
-    "path": "/videos/1739006233255.mp4",
-    "preview": "http://localhost:5001/videos/1739006233562.png",
-    "likes": 0,
-    "views": 0
-  },
-  {
-    "id": 1739006381519,
-    "title": "sea",
-    "path": "/videos/1739006381492.mp4",
-    "preview": "http://localhost:5001/videos/1739006381498.png",
-    "likes": 0,
-    "views": 0
+    "path": "/videos/your-path.mp4",
+    "preview": "http://localhost:5001/videos/your-path.jpg",
+    "likes": 1337,
+    "views": 2443
   }
 ]
